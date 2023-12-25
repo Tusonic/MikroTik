@@ -1,4 +1,4 @@
-## Dual Backup Wifi WAN
+## Backup -> Backup
 ```
 :local date [/system clock get date]
 :local time [/system clock get time]
