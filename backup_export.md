@@ -8,3 +8,8 @@
 /export file=$backupName
 :log info ("Export MT: " . $backupName)
 ```
+
+## Export
+```
+/export terse file="name"
+ ```
