@@ -1,11 +1,14 @@
-## MikroTik Script
-### 1. Backup MikroTik - file.backup 
-##### [pl]
-Ten skrypt tworzy kopię zapasową ustawień Twojego urządzenia MikroTik. Ważne jest, aby pamiętać, że ta kopia zapasowa jest specyficzna dla Twojego urządzenia i nie będzie działać na innych urządzeniach MikroTik. W przypadku awarii urządzenia, nie będziesz mógł użyć tej kopii na innym sprzęcie!
-##### [en]
-Ten skrypt tworzy kopię zapasową ustawień Twojego urządzenia MikroTik. Ważne jest, aby pamiętać, że ta kopia zapasowa jest specyficzna dla Twojego urządzenia i nie będzie działać na innych urządzeniach MikroTik. W przypadku awarii urządzenia, nie będziesz mógł użyć tej kopii na innym sprzęcie!
-### 2. Backup MikroTik - file.export
-##### [pl]
-Skrypt ten wykonuje eksport ustawień Twojego urządzenia MikroTik. Jest to bardziej uniwersalna forma kopii zapasowej, ponieważ eksportowane ustawienia są zapisywane w formacie tekstowym. Dzięki temu, nawet jeśli kupisz nowe urządzenie MikroTik i będziesz musiał dostosować nazwy interfejsów, możesz łatwo odzyskać ustawienia, korzystając z tej eksportowanej wersji.
-##### [en]
-Skrypt ten wykonuje eksport ustawień Twojego urządzenia MikroTik. Jest to bardziej uniwersalna forma kopii zapasowej, ponieważ eksportowane ustawienia są zapisywane w formacie tekstowym. Dzięki temu, nawet jeśli kupisz nowe urządzenie MikroTik i będziesz musiał dostosować nazwy interfejsów, możesz łatwo odzyskać ustawienia, korzystając z tej eksportowanej wersji.
+# MikroTik - podstawowe skrypt
+... aby żyło się lepiej :)
+## [Kopia zapasowa – zwykła](https://github.com/Tusonic/MikroTik/blob/main/backup_backup.md)
+Skrypt wykonuje podstawową kopię zapasową ustawień Twojego urządzenia MikroTik. Ważne jest, aby pamiętać że ta kopia zapasowa jest specyficzyna dla Twojego urządzenia i nie będzie działać na innych urządzeniach MikroTik.
+## [Kopia zapasowa – export](https://github.com/Tusonic/MikroTik/blob/main/backup_backup.md)
+Skrypt wykonuje podstawową kopię zapasową Twoich ustawień, ale tą kopię będziesz mógł edytować i przenosić pomiędzy urządzeniami. Jeżeli robisz zwykła kopię, zalecam również robić podstawowy export.
+## [Kopia zapasowa – export + mail](https://github.com/Tusonic/MikroTik/blob/main/backup_export_mail.md)
+Skrypt dodatkowo wykonuje proces wysyłki naszej kopii zapasowej na skrzynkę co jest bardzo wygodne i jednocześnie bezpieczne, jeżeli dojdzie do awarii urządzenia, a my nie zgrywamy kopii zapasowej z urządzenia to może się okazać że ten skrypt właśnie uratuje nam życie.
+## [Kopia zapasowa – import](https://github.com/Tusonic/MikroTik/blob/main/backup_import.md)
+Jeżeli wykonaliśmy kopię zapasową metodą export, to dobrze jest wiedzieć również jak importować kopię zapasową.
+## [Dual Wan – WiFi](https://github.com/Tusonic/MikroTik/blob/main/dual_wan_wifi_backup.md)
+Kopia zapasowa naszego łącza, jeżeli nasz główny Internet przestanie działać, dobrze jest abyśmy mieli łącze zapasowe, chociażby udostępnione z naszego telefonu.
+## [MikroTik AP](https://github.com/Tusonic/MikroTik/blob/main/dual_wan_wifi_backup.md)
+Konfiguracja MikroTika jako AP
