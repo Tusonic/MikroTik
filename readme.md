@@ -12,3 +12,6 @@ Jeżeli wykonaliśmy kopię zapasową metodą export, to dobrze jest wiedzieć r
 Kopia zapasowa naszego łącza, jeżeli nasz główny Internet przestanie działać, dobrze jest abyśmy mieli łącze zapasowe, chociażby udostępnione z naszego telefonu.
 ## [MikroTik AP](https://github.com/Tusonic/MikroTik/blob/main/dual_wan_wifi_backup.md)
 Konfiguracja MikroTika jako AP
+# Net Admin Pro
+## [MikroTik AP](https://netadminpro.pl/konfiguracja-wireguard-vps-linux-mikrotik/)
+Konfiguracja Wireguard Mikrotik - Linux 
