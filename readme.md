@@ -13,5 +13,16 @@ Kopia zapasowa naszego łącza, jeżeli nasz główny Internet przestanie dział
 ## [MikroTik AP](https://github.com/Tusonic/MikroTik/blob/main/dual_wan_wifi_backup.md)
 Konfiguracja MikroTika jako AP
 # Net Admin Pro
-## [MikroTik AP](https://netadminpro.pl/konfiguracja-wireguard-vps-linux-mikrotik/)
+## [MikroTik Wireguard](https://netadminpro.pl/konfiguracja-wireguard-vps-linux-mikrotik/)
 Konfiguracja Wireguard Mikrotik - Linux 
+## [Instalacja Dude](https://netadminpro.pl/instalacja-dude-mikrotik/)
+Instalacja DUDE - świetne narzędzie do monitorowania! 
+## [CAPsMAN WiFi Wave2](https://netadminpro.pl/capsman-wifi-wave2/)
+Konfiguracja + kilka ciekawych rzeczy które warto również zrobić przy konfiguracji
+## [Wake On Lan](https://netadminpro.pl/wake-on-lan-mikrotik/)
+Bardzo przydatna funkcja z której często korzystam! Czyli budzimy nasz komputer ze snu, a nawet całkowitego wyłączenia!
+## PiHole na Mikrotiku
+* [część 1](https://netadminpro.pl/pihole-na-mikrotik-cz-1/)
+* [część 2](https://netadminpro.pl/pihole-na-mikrotik-cz-2-konfiguracja-pihole/)
+
+Pi hole można posiadać zainstalowane jako kontener (DOCKER) na samym urządzeniu MIKROTIK! Całość działa bajecznie dobrze! Dodatkowo możemy zwiększyć bezpieczeństwo naszej sieci domowej/firmowej! 
