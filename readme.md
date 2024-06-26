@@ -26,3 +26,7 @@ Bardzo przydatna funkcja z której często korzystam! Czyli budzimy nasz kompute
 * [część 2](https://netadminpro.pl/pihole-na-mikrotik-cz-2-konfiguracja-pihole/)
 
 Pi hole można posiadać zainstalowane jako kontener (DOCKER) na samym urządzeniu MIKROTIK! Całość działa bajecznie dobrze! Dodatkowo możemy zwiększyć bezpieczeństwo naszej sieci domowej/firmowej! 
+## [Witualny MikroTik na VMware](https://netadminpro.pl/23t29-wirtualny-mikrotik-na-vmware-konfiguracja-zarzadzanie-serwerami-bezpieczenstwo/)
+Stworzenie oraz konfiguracja wirtualnego MikroTika na VMware
+## [Konfiguracja OpenVPN na MikroTik](https://netadminpro.pl/konfiguracja-openvpn-przy-pomocy-mikrotika/)
+Konfiguracja OpenVPN na MikroTik-u 
